@@ -1,0 +1,23 @@
+.infoHead{
+    text-align: center;
+    margin: 20px 0;
+}
+
+.info-content{
+    width: 80%;
+    margin-left: 50px;
+    background-color: #09172C;
+    border: 1px #0978A5 solid;
+    border-radius: 8px;
+    padding: 50px;
+}
+
+.info-subhead{
+    margin: 20px 0 0 0;
+}
+
+
+.list li{
+    list-style-type: none;
+    line-height: 2;
+}

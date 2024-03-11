@@ -1,0 +1,86 @@
+.box{
+    border: #0978A5 1.4px solid;
+    background-color: #09172C;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 5px;
+    width: 40%;
+    height: 50px;
+}
+
+.leftPart{
+    width: 35%;
+}
+
+.alertBox{
+    background-color: #09172C;
+    padding: 20px;
+    margin-top: 12px;
+    margin-left: 20px;
+    border-radius: 5px;
+    height: 64vh;
+}
+
+.alertHead{
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    margin-bottom: 20px;
+}
+
+.headAlert {
+    display: flex;
+    align-items: center;
+  }
+
+  .dor{
+    color: #09172C;
+  }
+  
+  .alert {
+     margin: 0 20px;
+  }
+  
+  .headAlert span.low {
+    border-left: 2.5px solid #0978A5;
+    border-color: #0978A5;
+    height: 5px;
+    margin-left: 3px;
+  }
+  
+  .headAlert span.mid {
+    border-left: 2.5px solid #0978A5;
+    border-color: #0978A5;
+    height: 9px;
+    margin-left: 3px;
+  }
+  
+  .headAlert span.high {
+    border-left: 2.5px solid #0978A5;
+    border-color: #0978A5;
+    height: 15px;
+    margin-left: 3px;
+  }
+  
+
+.rightPart{
+    width: 65%;
+    background-color: #09172C;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 15px;
+    border-radius: 5px;
+    height: 79vh;
+}
+
+button{
+    background-color: #09172C;
+    color: white;
+    border: #0978A5 1px solid;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+

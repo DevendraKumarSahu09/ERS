@@ -1,0 +1,17 @@
+.aboutHead{
+    margin: 20px;
+    text-align: center;
+}
+
+.about-box{
+    background-color:#09172C;
+    width: 80%;
+    margin: auto;
+    padding: 30px;
+    border: 0.8px #0978A5 solid;
+    border-radius: 6px;
+}
+
+.para{
+    margin-bottom: 20px;
+}

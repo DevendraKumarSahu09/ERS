@@ -1,0 +1,27 @@
+.table{
+    background-color: #071934;
+    width: 98%;
+    margin: auto;
+    padding: 10px;
+    border-radius: 8px;
+}
+th,
+td {
+	padding: 5px;
+    font-size: 12px;
+	color: #ffffffad;
+}
+
+th {
+	text-align: left;
+}
+
+tr:hover {
+    background-color: rgba(255, 255, 255, 0.149);
+}
+
+.types{
+    color: white;
+    border-radius: 2px;
+    margin: 10px;
+}
